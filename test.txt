@@ -1,0 +1,9 @@
+Hi!
+
+I am a text file, solely created for the purpose of trying out the new github functionality!
+
+That is my only purpose.
+
+Have a nice day!
+
+Goodbye!
